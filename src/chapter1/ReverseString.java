@@ -10,7 +10,7 @@ public class ReverseString {
         System.out.println("Type some words");
         String word = inp.nextLine();
 
-
+// today is 10_07_2021 just do some practice
 
         // this is my project file
     }
