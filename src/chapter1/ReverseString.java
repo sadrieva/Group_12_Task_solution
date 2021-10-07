@@ -11,6 +11,7 @@ public class ReverseString {
         String word = inp.nextLine();
 
 // today is 10_07_2021 just do some practice
+        //dont be mad guys
 
         // this is my project file
     }
